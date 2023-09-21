@@ -3,7 +3,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 3em 2em;
+    margin: 1em 1em;
 }
 
 .listing {
@@ -18,7 +18,7 @@
 
     .listing_img {
         width: auto;
-        height: 500px;
+        max-height: 500px;
     }
     
     .listing_text {
