@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Contact.module.scss";
-import profileImg from "../../assets/img/DSC_0877.jpg";
+import profileImg from "../../assets/img/image.jpeg";
 const Contact = () => {
   return (
     <div className={styles.contact}>
@@ -13,15 +13,14 @@ const Contact = () => {
           lives that would otherwise be forgotten.
           <br />
           <br />
-          I'm currently London based, but travel regularly between Amsterdam and
-          Zagreb (when circumstances allow).
+          I'm currently Long Beach, USA based, but originally I'm from Pune, India.
           <br />
           <br />
           For collaborations / prints / general inquiries fill the form below:{" "}
         </p>
 
         <form
-          action="mailto:joshisarita1311@gmail.com"
+          action="mailto:kungho09@gmail.com"
           method="post"
           enctype="text/plain"
         >
