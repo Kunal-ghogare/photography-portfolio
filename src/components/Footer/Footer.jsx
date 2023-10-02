@@ -5,8 +5,8 @@ const Footer = () => {
     return (
         <footer className={styles.footer}>
             <p>
-                <a href="https://www.instagram.com/milastea/" target="_blank" rel="noreferrer">@kunalghogare </a> |  
-                <a href="https://www.instagram.com/moonshinefaerie/" target="_blank" rel="noreferrer"> @moonshinefaerie</a>
+                <a href="https://www.instagram.com/kunal_ghogare/" target="_blank" rel="noreferrer">@kunal_ghogare </a> |  
+                
             </p>
             <p>Made by Kunal Ghogare | May 2023</p>
         </footer>
